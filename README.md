@@ -2,6 +2,7 @@
 Team members:
 RostiSlave
 StaniSlave 
+Valentin
 Kostya
 Artem
 Demid
